@@ -1,2 +1,2 @@
 Some test text file.
-Cool new information
+Some old information.
