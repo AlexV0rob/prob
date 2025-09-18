@@ -1,3 +1,0 @@
-Some test text file.
-Some old information.
-New line
